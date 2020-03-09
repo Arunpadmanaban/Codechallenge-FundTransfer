@@ -1,0 +1,9 @@
+C:\Users\Arun\Desktop\Online Test\FundTransfer\bin\Debug\netstandard2.0\FundTransfer.deps.json
+C:\Users\Arun\Desktop\Online Test\FundTransfer\bin\Debug\netstandard2.0\FundTransfer.dll
+C:\Users\Arun\Desktop\Online Test\FundTransfer\bin\Debug\netstandard2.0\FundTransfer.pdb
+C:\Users\Arun\Desktop\Online Test\FundTransfer\obj\Debug\netstandard2.0\FundTransfer.csproj.CoreCompileInputs.cache
+C:\Users\Arun\Desktop\Online Test\FundTransfer\obj\Debug\netstandard2.0\FundTransfer.AssemblyInfoInputs.cache
+C:\Users\Arun\Desktop\Online Test\FundTransfer\obj\Debug\netstandard2.0\FundTransfer.AssemblyInfo.cs
+C:\Users\Arun\Desktop\Online Test\FundTransfer\obj\Debug\netstandard2.0\FundTransfer.dll
+C:\Users\Arun\Desktop\Online Test\FundTransfer\obj\Debug\netstandard2.0\FundTransfer.pdb
+C:\Users\Arun\Desktop\Online Test\FundTransfer\obj\Debug\netstandard2.0\FundTransfer.csprojAssemblyReference.cache
